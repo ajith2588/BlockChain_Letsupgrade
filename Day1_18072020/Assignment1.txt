@@ -1,0 +1,23 @@
+1. What is your understanding of Blockchain?
+Block chain is a technique is to store data in such a way that can't be tampered. it can be achieved by using Hashing and Distribution of the data as a linked link like structure...
+
+2. What is the core problem Block chain is trying to solve?
+The most important thing is using block chain is security as data stored in the distributed system and it's hashed so no one can change the data
+and also the another most import thing to preserve the data.
+
+
+3. What are the features of Block chain?
+No one can delete the data
+No one can change the data
+Data Can't be loosed
+
+4. What all things a Block contains?
+Block chain contains
+a. Previous Block Hash
+b. and Data of the current block
+c. Address of next block
+
+
+5. How is the verifiability of Block chain is been attained ?
+It's very simple to verify the data in block chain because it uses same Hashing algorithm and same data every where so every client should have the same has key for the last block so we need to simply compare the HASH every client..
+if anyone who's Hash is different that's mean there's data got changed... so they have to update the data with other's valid data .... :)
